@@ -1,3 +1,10 @@
+/*global selector- use asterisk(*) */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 /*element selector*/
 h1 {
   background-color: orange;
