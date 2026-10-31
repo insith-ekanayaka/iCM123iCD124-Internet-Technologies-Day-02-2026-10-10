@@ -29,6 +29,10 @@ body {
 .bg-h1-one {
   background-color: blue;
   color: white;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 .bg-h1-two {
   background-color: green;
