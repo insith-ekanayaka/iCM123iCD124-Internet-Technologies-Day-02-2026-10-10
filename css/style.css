@@ -24,3 +24,13 @@ body {
 #bg-h5-color {
   background-color: red;
 }
+
+/*css properties*/
+.bg-h1-one {
+  background-color: blue;
+  color: white;
+}
+.bg-h1-two {
+  background-color: green;
+  color: white;
+}
